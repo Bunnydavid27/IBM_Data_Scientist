@@ -29,7 +29,7 @@ This repository contains all my coursework, projects, and assignments completed 
 ## How to Explore
 - Clone the repository:
   ```bash
-  git clone https://github.com/YourUsername/IBM-Data-Science-Coursera.git
+  git clone https://github.com/Bunnydavid27/IBM_Data_Scientist.git
   ```
 - Open Jupyter notebooks or Python scripts inside each module folder.
 - Review project reports, datasets, and visualizations included.
