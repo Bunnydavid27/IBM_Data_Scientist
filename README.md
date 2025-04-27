@@ -38,3 +38,7 @@ Successfully completed the **IBM Data Science Professional Certificate** and dem
 
 ## Acknowledgements
 - **IBM** and **Coursera** for offering high-quality education and hands-on projects.
+
+## License
+
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
